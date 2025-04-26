@@ -1,5 +1,6 @@
 {
-  "name": "rubiks-cube-animation",
+  "homepage": "http://gilbertq.github.io/rubiks",
+    "name": "rubiks-cube-animation",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
